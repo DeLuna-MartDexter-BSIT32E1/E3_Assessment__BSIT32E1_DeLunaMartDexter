@@ -1,0 +1,14 @@
+C:\Users\Dexter\Desktop\AOT\bin\Debug\net8.0\AOT.exe
+C:\Users\Dexter\Desktop\AOT\bin\Debug\net8.0\AOT.deps.json
+C:\Users\Dexter\Desktop\AOT\bin\Debug\net8.0\AOT.runtimeconfig.json
+C:\Users\Dexter\Desktop\AOT\bin\Debug\net8.0\AOT.dll
+C:\Users\Dexter\Desktop\AOT\bin\Debug\net8.0\AOT.pdb
+C:\Users\Dexter\Desktop\AOT\obj\Debug\net8.0\AOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dexter\Desktop\AOT\obj\Debug\net8.0\AOT.AssemblyInfoInputs.cache
+C:\Users\Dexter\Desktop\AOT\obj\Debug\net8.0\AOT.AssemblyInfo.cs
+C:\Users\Dexter\Desktop\AOT\obj\Debug\net8.0\AOT.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\Desktop\AOT\obj\Debug\net8.0\AOT.dll
+C:\Users\Dexter\Desktop\AOT\obj\Debug\net8.0\refint\AOT.dll
+C:\Users\Dexter\Desktop\AOT\obj\Debug\net8.0\AOT.pdb
+C:\Users\Dexter\Desktop\AOT\obj\Debug\net8.0\AOT.genruntimeconfig.cache
+C:\Users\Dexter\Desktop\AOT\obj\Debug\net8.0\ref\AOT.dll
