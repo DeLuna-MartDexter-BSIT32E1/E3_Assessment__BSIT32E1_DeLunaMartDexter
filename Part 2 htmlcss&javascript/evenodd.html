@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<button onclick="myFunction()">Check number</button>
+
+<p id="result"></p>
+
+<script>
+function myFunction() {
+  var num = document.getElementById("numInput").value;
+  var resultText = checkNumber(num);
+  document.getElementById("result").innerHTML = "The number is " + resultText;
+}
+
+function checkNumber(num) {
+    if (num % 2 === 0) {
+        return "even";
+    } else {
+        return "odd";
+    }
+}
+</script>
+
+<input type="number" id="numInput">
+
+</body>
+</html>
